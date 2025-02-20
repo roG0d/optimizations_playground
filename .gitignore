@@ -1,3 +1,6 @@
+# Custom
+torch_compile_debug
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
